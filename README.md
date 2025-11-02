@@ -4,11 +4,12 @@
  [ Voir le lien github ]  ( https://github.com/AnnixArt/dexchange-test.git ) 
  
 [Voir la démo sur Vercel] 
-(https://dexchange-frontend-test-c8jq.vercel.app/auth)
 
-( https://dexchange-frontend-test-c8jq.vercel.app/dashboard )
+Auth / Login (https://dexchange-frontend-test-c8jq.vercel.app/auth)
 
-( https://dexchange-frontend-test-c8jq.vercel.app/table) 
+Dashboard / Tableau de bord: ( https://dexchange-frontend-test-c8jq.vercel.app/dashboard )
+
+Table View / Vue tableau  ( https://dexchange-frontend-test-c8jq.vercel.app/table) 
                           
 ---Layout responsive desktop → mobile 
 
