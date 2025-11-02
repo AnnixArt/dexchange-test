@@ -31,14 +31,12 @@ Le projet sera accessible sur : http://localhost:3000 { pour wampserver }
    . TypeScript – typage strict
    . [Optionnel] framer-motion – animations fluides ( sur les premiers cadre cadre dashboad )
 
-
-🎯 Pages intégrées
+# 🎯 Pages intégrées
   . Auth : Login / Formualire de connexion 
   . Dashboard : vue principale avec cartes et statistiques
   . Table View : affichage de données mockées avec composants réutilisables.
 
-🧾 Ce que j'aurais fait avec plus de temps
-
+# 🧾 Ce que j'aurais fait avec plus de temps.
   Avec plus de temps, j’aurais implémenté plusieurs fonctionnalités avancées pour rendre le projet plus complet et interactif :
 
 1. Tests unitaires et d’intégration
@@ -50,7 +48,6 @@ Le projet sera accessible sur : http://localhost:3000 { pour wampserver }
    . Ajout, modification, suppression et validation des données
 
    3. Graphiques et charts interactifs sur le dashboard
-
     . Visualisation de statistiques via des graphiques (barres, lignes, secteurs)
      . Composants interactifs avec hover et animation pour une meilleure UX
 
