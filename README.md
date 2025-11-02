@@ -31,17 +31,17 @@ Le projet sera accessible sur : http://localhost:3000 { pour wampserver }
    . TypeScript – typage strict
    . [Optionnel] framer-motion – animations fluides ( sur les premiers cadre cadre dashboad )
 
-## 🎯 Pages intégrées
+🎯 Pages intégrées
   . Auth : Login / Formualire de connexion 
   . Dashboard : vue principale avec cartes et statistiques
   . Table View : affichage de données mockées avec composants réutilisables.
 
-## 🧾 Ce que j'aurais fait avec plus de temps.
+🧾 Ce que j'aurais fait avec plus de temps.
   Avec plus de temps, j’aurais implémenté plusieurs fonctionnalités avancées pour rendre le projet plus complet et interactif :
 
 1. Tests unitaires et d’intégration
    . Mise en place de Vitest pour les tests unitaires
-    . Tests des composants avec React Testing Library pour vérifier le rendu, les interactions et les props
+   . Tests des composants avec React Testing Library pour vérifier le rendu, les interactions et les props
 
 2. CRUD complet avec formulaire dynamique
   . Gestion des utilisateurs/produits via formulaires dynamiques
@@ -49,7 +49,7 @@ Le projet sera accessible sur : http://localhost:3000 { pour wampserver }
 
    3. Graphiques et charts interactifs sur le dashboard
     . Visualisation de statistiques via des graphiques (barres, lignes, secteurs)
-     . Composants interactifs avec hover et animation pour une meilleure UX
+    . Composants interactifs avec hover et animation pour une meilleure UX
 
 4. Pagination, tri et filtres avancés sur la table
    . Affichage paginé pour les grandes listes de données
@@ -57,6 +57,6 @@ Le projet sera accessible sur : http://localhost:3000 { pour wampserver }
 
 5. Feedback visuel sur actions utilisateurs (success, error)
    . Optimisation responsive mobile et tablette
-    . Amélioration des performances (lazy loading des composants, images et data)
+   . Amélioration des performances (lazy loading des composants, images et data)
 
 
