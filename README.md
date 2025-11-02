@@ -3,9 +3,7 @@
 ## 🔗 Démo
  [ Voir le lien github ]  ( https://github.com/AnnixArt/dexchange-test.git ) 
  
-[Voir la démo sur Vercel] 
-
-Login (https://dexchange-frontend-test-c8jq.vercel.app/auth)
+[Voir la démo sur Vercel]  Login (https://dexchange-frontend-test-c8jq.vercel.app/auth)
 
 Tableau de bord: ( https://dexchange-frontend-test-c8jq.vercel.app/dashboard )
 
