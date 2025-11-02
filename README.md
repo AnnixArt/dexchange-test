@@ -5,11 +5,11 @@
  
 [Voir la démo sur Vercel] 
 
-Auth / Login (https://dexchange-frontend-test-c8jq.vercel.app/auth)
+Login (https://dexchange-frontend-test-c8jq.vercel.app/auth)
 
-Dashboard / Tableau de bord: ( https://dexchange-frontend-test-c8jq.vercel.app/dashboard )
+Tableau de bord: ( https://dexchange-frontend-test-c8jq.vercel.app/dashboard )
 
-Table View / Vue tableau  ( https://dexchange-frontend-test-c8jq.vercel.app/table) 
+Tableau de vu:  ( https://dexchange-frontend-test-c8jq.vercel.app/table) 
                           
 ---Layout responsive desktop → mobile 
 
