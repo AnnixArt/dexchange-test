@@ -9,7 +9,7 @@ Tableau de bord: ( https://dexchange-frontend-test-c8jq.vercel.app/dashboard )
 
 Tableau de vu:  ( https://dexchange-frontend-test-c8jq.vercel.app/table) 
                           
----Layout responsive desktop → mobile 
+---> Layout responsive sur desktop et mobile .
 
 ## 📦 Installation & lancement
 
@@ -28,7 +28,7 @@ Le projet sera accessible sur : http://localhost:3000 { pour wampserver }
    . Next.js (App Router) – pour le routage et SSR/SSG
    . Tailwind CSS – pour le style et la rapidité de mise en page
    . TypeScript – typage strict
-   . [Optionnel] framer-motion – animations fluides ( sur les premiers cadre cadre dashboad )
+   . [Optionnel] framer-motion – animations fluides ( sur les premiers cadre du dashboad )
 
 🎯 Pages intégrées
   . Auth : Login / Formualire de connexion 
